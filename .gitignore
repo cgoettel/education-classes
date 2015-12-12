@@ -1,5 +1,9 @@
 *.apc
 *.aux
+*.bbl
+*.bcf
+*.blg
+*.fff
 *.log
 *.out
 *.toc
